@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F57F17&vCenter=true&width=435&lines=Hi+I'm+a+Frontend+Developer!;UI%2FUX+Designer+in+Progress!;Let's+Build+Something+Beautiful!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F57F17&vCenter=true&width=435&lines=Hi+I'm+a+Frontend+Developer!;UI%2F+Designer+in+Progress!;Let's+Build+Something+Beautiful!">
 </p>
 
 <h1 align="center">Hey there! 👋 I'm prasannajogaa</h1>
-<h3 align="center">Frontend Developer | UI/UX Designer | Fresher ✨</h3>
+<h3 align="center">Frontend Developer | UI Designer | Fresher ✨</h3>
 
 ---
 
