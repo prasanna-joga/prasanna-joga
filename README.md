@@ -43,13 +43,13 @@
 ### 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prasanna-joga/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/laxmiprasanna-joga-/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your.prasannajogaa@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/__prasannajoga__" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
