@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey there! 👋 I'm prasannajogaa</h1>
-<h3 align="center">Frontend Developer | UI Designer | Fresher ✨</h3>
+<h3 align="center">Web Developer | UI Designer | DSA Learner ✨</h3>
 
 ---
 
@@ -33,7 +33,7 @@
 |--------|------------|-------------|
 | 🎨 **UI/UX Design Showcase** | Figma | A collection of modern, mobile-friendly UI screens |
 | 🚌 **Ticket Booking UI** | HTML, CSS, JS | Responsive interface for booking vehicle tickets |
-| 🌐 **Portfolio Website** | HTML, Tailwind, JS | Personal portfolio with animations and clean UI |
+| 🌐 **Portfolio Website** | HTML, Css, JS | Personal portfolio with animations and clean UI |
 
 ---
 
