@@ -43,7 +43,7 @@
 ### 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/laxmiprasanna-joga-/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/laxmiprasanna-joga-" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your.prasannajogaa@gmail.com">
